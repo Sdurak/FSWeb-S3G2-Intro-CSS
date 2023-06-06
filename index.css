@@ -1,0 +1,27 @@
+
+/* <!-- nav --> */
+.nav-content {
+    width: 750px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Chelsea Market', cursive;
+    text-decoration: none;
+}
+    
+
+#gezinizi-planlayin {
+    background-color: #FF764E;
+    text-decoration: none;
+}
+
+#bilgi-edinin {
+    background-color: #5ED3EB;
+}
+
+#karsilastirin {
+    background-color: #FFCD69;
+}
+
+/* <!-- header --> */
+
